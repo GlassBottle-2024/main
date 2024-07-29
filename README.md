@@ -6,5 +6,6 @@
 
 
 <div align="center">
-[image](https://github.com/user-attachments/assets/bf33746c-464f-46e8-bbde-510380eea20a)
+<img width="535" alt="스크린샷 2024-06-14 오후 4 41 36" src="https://github.com/user-attachments/assets/bf33746c-464f-46e8-bbde-510380eea20a">
+
 </div>
